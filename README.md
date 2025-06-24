@@ -7,5 +7,5 @@
 ## Songs created with Strudel, the live coding music tool
 
 - GO TO: https://strudel.cc
-- Paste one of my songs into the editor and press the update button
+- Paste one of my songs into the editor and press the play button
 - Have fun and Chill !
